@@ -1,7 +1,7 @@
-# Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
+﻿# Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Марина Мацкевич](https://up.htmlacademy.ru/javascript/21/user/1128083).
-* Наставник: `Неизвестно`.
+* Наставник: [Жора Милевский](https://htmlacademy.ru/profile/id366911).
 
 ---
 
