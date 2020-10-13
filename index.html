@@ -184,18 +184,19 @@
   let getFireballSpeed = function(isMovingLeft){
     return isMovingLeft ? 2 : 5;
   }
-  let wizarWidth = 70;
+  let wizardWidth = 70;
   let getWizardHeight = function(){
     return 1.337 * wizardWidth;
   }
   let wizardSpeed = 3;
   let getWizardX = function(gameFielWidth){
-    return (gameFielWidth - wizarWidth) / 2;
+    return (gameFielWidth - wizardWidth) / 2;
   }
   let getWizardY = function(gameFieldHeight){
     return gameFieldHeight / 3;
   }
 </script>
+<script src="js/stat.js"></script>
 <script src="js/game.js"></script>
 
 </body>
